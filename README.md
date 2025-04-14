@@ -43,10 +43,4 @@
 
 ---
 
-### 🐍 Snake Game do GitHub
-
-<img src="https://raw.githubusercontent.com/Lucas-Santos7/Lucas-Santos7/output/snake.svg" alt="Snake animation" />
-
----
-
 <p align="center"><em>“Entregue o seu caminho ao Senhor; confie nele, e ele agirá.” – Salmos 37:5 ✝️</em></p>
