@@ -8,12 +8,12 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 🛤️ Minha Jornada
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Santos7&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Santos7&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
-</div>
+- ✅ 2024: Início na área de desenvolvimento de sistemas.
+- ✅ 2025: Desenvolvimento de sistemas com PHP, MySQL/XAMPP, Python e front-end com HTML/CSS.
+- 🔄 Atualmente: Buscando meu primeiro emprego na área, aprimorando e buscando mais conhecimentos para me tornar um full-stack.
+- 📈 Em breve: Projetos e integração com APIs.
 
 ---
 
