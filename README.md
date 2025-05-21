@@ -1,3 +1,8 @@
+
+### 🧱 Meu gráfico 3D de contribuições
+
+![3D Contributions](./profile-season-animate.svg)
+
 <h1 align="center">👋 Olá, seja muito bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
