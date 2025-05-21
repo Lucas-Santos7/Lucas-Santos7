@@ -1,27 +1,24 @@
+name: GitHub-Profile-3D-Contrib
 
-
-
-nome: GitHub-Profile-3D-Contrib
-
-em:
-  horário: # 03:00 JST == 18:00 UTC
+on:
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-Empregos:
-  Construir:
-    é executado: ubuntu-mais recente
-    nome: generate-github-profile-3d-contrib
-    Passos:
-      - Usos: Ações/checkout@v2
-      - Usos: yoshi389111/github-profile-3d-contrib@0.6.0
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{ segredos. GITHUB_TOKEN }}
-          NOME DE USUÁRIO: ${{ github.repository_owner }}
-      - nome: Commit & Push
-        executar: |
- configuração do git user.name github-actions
- user.email github-actions@github.com de configuração do git
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
           git add -A .
- git commit -m "gerado"
- vá empurrar
+          git commit -m "generated" || echo "no changes"
+          git push
