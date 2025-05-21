@@ -23,12 +23,8 @@
 ---
 
 ### 🛠️ Tecnologias que uso no dia a dia
-[![My Skills](https://skillicons.dev/icons?i=c,css,discord,figma,git,github,html,java,js,mysql,obsidian,postman,py,spring,vscode,windows)](https://skillicons.dev)
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=c,css,discord,figma,git,github,html,java,js,mysql,obsidian,postman,py,spring,vscode,windows&perline=8)](https://skillicons.dev)
+
 
 ---
 
