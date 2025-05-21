@@ -9,16 +9,6 @@
   Apaixonado por tecnologia, desenvolvimento e por cumprir os propósitos de Deus através do meu trabalho.
 </p>
 
----
-
-### 🛤️ Minha Jornada
-
-- ✅ 2024: Início na área de desenvolvimento de sistemas.
-- ✅ 2025: Desenvolvimento de sistemas com JS, MySQL/XAMPP, Python e front-end com HTML/CSS.
-- 🔄 Atualmente: Buscando meu primeiro emprego na área, aprimorando e buscando mais conhecimentos para me tornar um full-stack.
-- 📈 Em breve: Projetos e integração com APIs.
-
----
 
 ### 🛠️ Tecnologias que uso no dia a dia
 [![My Skills](https://skillicons.dev/icons?i=c,css,discord,figma,git,github,html,java,js,mysql,obsidian,postman,py,spring,vscode,windows&perline=8)](https://skillicons.dev)
